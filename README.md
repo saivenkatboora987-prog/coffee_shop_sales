@@ -1,4 +1,4 @@
-☕ Coffee Shop Sales Dashboard
+**☕ Coffee Shop Sales Dashboard**
 1. Project Title / Headline
 ☕ Coffee Shop Sales & Performance Insights Dashboard  A dynamic, interactive data visualization tool built to analyze coffee shop transaction data—focusing on sales trends, product categories, store performance, and peak order hours.
 2. Short Description / Purpose
