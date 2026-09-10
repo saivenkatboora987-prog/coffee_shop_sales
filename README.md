@@ -17,4 +17,4 @@ The Coffee Shop Sales Dashboard is a visually engaging and analytical Power BI r
    Business Problem: Tracking sales performance, identifying top-selling product categories, and understanding customer purchasing trends across multiple store          locations to optimize daily operations.
    Goal of the Dashboard: To provide an interactive reporting tool that visualizes key performance indicators (KPIs)—including Total Sales, Total Orders, and Total      Quantity Sold—along with Month-over-Month (MoM) growth rates and peak sales hours.
 6.Screenshot
-   
+  https://github.com/saivenkatboora987-prog/coffee_shop_sales/blob/main/coffee_shop_sales%20snapshot.png 
